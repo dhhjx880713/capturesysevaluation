@@ -1,0 +1,7 @@
+*.pyc
+*.pickle
+*.spyderproject
+*.spyderworkspace
+*.idea
+*.html
+data/
